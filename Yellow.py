@@ -1,0 +1,1 @@
+print(f"W{int(input()) * 'o'}w!")
